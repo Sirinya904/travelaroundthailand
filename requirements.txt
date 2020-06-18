@@ -1,0 +1,6 @@
+flask
+geopy
+gspread
+oauth2client
+gunicorn
+pandas
